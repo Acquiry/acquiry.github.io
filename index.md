@@ -57,6 +57,11 @@ Each of these moves risk between the parties in a different way. Sellers tend to
 
 Before an offer becomes binding, a buyer should be able to answer three questions in writing: how much revenue and gross profit sits with the largest customers, how secure those relationships are after completion, and how the price and terms reflect any remaining risk. If those answers are not clear, the diligence is not finished.
 
+## More buyer notes
+
+- [Normalising SDE: the add-backs a digital business buyer should question](https://acquiry.github.io/sde-add-backs.html)
+- [Vendor finance in a small digital business acquisition: a buyer's view](https://acquiry.github.io/vendor-finance.html)
+
 ---
 
 For more on how we run buy-side and sell-side processes, see [the Acquiry M&A process](https://www.acquiry.com/process/), our [research](https://www.acquiry.com/research/) and the free [SDE and EBITDA calculator](https://www.acquiry.com/tools/sde-ebitda-calculator/). Buyers looking for off-market targets can [start a confidential M&A mandate](https://www.acquiry.com/mandate/).
